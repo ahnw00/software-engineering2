@@ -2417,7 +2417,7 @@
 									"parentStyle": true,
 									"left": 592.5,
 									"top": 797,
-									"width": 78.61181640625,
+									"width": 78,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWqnSjs04BRH8="
@@ -3221,7 +3221,7 @@
 									"parentStyle": true,
 									"left": 508.5,
 									"top": 471.5,
-									"width": 137.83544921875,
+									"width": 137,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW0sMeI3UXZG8="
@@ -35693,7 +35693,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGW5wHRvPNjSGg="
 					},
-					"name": "ClassDiagram1",
+					"name": "AnalysisClassDiagram",
 					"ownedViews": [
 						{
 							"_type": "UMLClassView",
