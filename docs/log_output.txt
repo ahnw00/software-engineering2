@@ -1,0 +1,12 @@
+[ahnw00] Mon May 19 23:09:01 2025 +0900 docs: diagrams pdf upload 033bec2
+[ahnw00] Mon May 19 17:35:43 2025 +0900 docs: communication diagram 수정 52f457e
+[ahnw00] Mon May 19 15:35:23 2025 +0900 docs: analysis class diagram(completed) 36320bd
+[ahnw00] Sun May 18 15:30:23 2025 +0900 Merge branch 'main' of https://github.com/ahnw00/software-engineering2 ac40f3f
+[ahnw00] Sun May 18 15:30:21 2025 +0900 docs: AnalysisClassDiagram (미완) 3f748e2
+[ahnw00] Sun May 18 12:39:01 2025 +0900 Update README.md 8479f6f
+[ahnw00] Sun May 18 12:38:00 2025 +0900 docs: communication diagram 작성완료 1181c17
+[ahnw00] Thu May 15 16:13:00 2025 +0900 docs: requirements 깃허브 주소 추가 b9f47af
+[ahnw00] Thu May 15 16:10:23 2025 +0900 docs: useccase diagram 수정 및 pdf f6ea7c3
+[ahnw00] Thu May 15 16:03:15 2025 +0900 docs: usecase_description 수정 0088a37
+[ahnw00] Thu May 15 15:19:49 2025 +0900 docs: requirements 수정 4a57c32
+[ahnw00] Thu May 15 14:07:12 2025 +0900 Initial commit 9cb3360
