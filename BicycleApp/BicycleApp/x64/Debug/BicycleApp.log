@@ -1,0 +1,835 @@
+﻿  Bicycle.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RentedBicycleCollection.h(12,9): error C2065: 'Bicycle': undeclared identifier
+  (compiling source file 'Bicycle.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RentedBicycleCollection.h(12,17): error C2059: syntax error: '>'
+  (compiling source file 'Bicycle.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RentedBicycleCollection.h(15,11): error C2061: syntax error: identifier 'Bicycle'
+  (compiling source file 'Bicycle.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleCollection.h(12,9): error C2065: 'Bicycle': undeclared identifier
+  (compiling source file 'Bicycle.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleCollection.h(12,2): error C2923: 'std::vector': 'Bicycle' is not a valid template type argument for parameter '_Ty'
+  (compiling source file 'Bicycle.cpp')
+      C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleCollection.h(12,9):
+      see declaration of 'Bicycle'
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleCollection.h(12,2): error C2976: 'std::vector': too few template arguments
+  (compiling source file 'Bicycle.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(429,7):
+      see declaration of 'std::vector'
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleCollection.h(16,9): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Bicycle.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleCollection.h(16,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Bicycle.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleCollection.h(16,30): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Bicycle.cpp')
+  
+  BicycleApp.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(10,18): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'BicycleApp.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(10,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'BicycleApp.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(10,27): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'BicycleApp.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(13,27): error C2061: syntax error: identifier 'MemberCollection'
+  (compiling source file 'BicycleApp.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.cpp(16,9): error C3861: 'printOut': identifier not found
+  BicycleCollection.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RegisterBicycle.h(7,19): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'BicycleCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RegisterBicycle.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'BicycleCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RegisterBicycle.h(7,26): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'BicycleCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RegisterBicycle.h(10,18): error C2061: syntax error: identifier 'BicycleCollection'
+  (compiling source file 'BicycleCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(10,19): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'BicycleCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(10,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'BicycleCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(10,26): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'BicycleCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(13,26): error C2061: syntax error: identifier 'BicycleCollection'
+  (compiling source file 'BicycleCollection.cpp')
+  
+  ListRented.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,8): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,27): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(12,17): error C2061: syntax error: identifier 'string'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,42): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(13,8): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,24): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(11,9): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(13,7): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRentedUI.h(7,12): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRentedUI.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRentedUI.h(7,28): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ListRented.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRentedUI.h(10,15): error C2061: syntax error: identifier 'ListRented'
+  (compiling source file 'ListRented.cpp')
+  
+  ListRentedUI.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,8): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,27): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(12,17): error C2061: syntax error: identifier 'string'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,42): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(13,8): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,24): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(11,9): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(13,7): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(35,14): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(35,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(35,28): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ListRentedUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(40,38): error C2061: syntax error: identifier 'ListRentedUI'
+  (compiling source file 'ListRentedUI.cpp')
+  
+  Login.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUp.h(8,18): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Login.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUp.h(8,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Login.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUp.h(8,36): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Login.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUp.h(11,9): error C2061: syntax error: identifier 'MemberCollection'
+  (compiling source file 'Login.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\LoginUI.h(7,7): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Login.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\LoginUI.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Login.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\LoginUI.h(7,18): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Login.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\LoginUI.h(10,10): error C2061: syntax error: identifier 'Login'
+  (compiling source file 'Login.cpp')
+  
+  LoginUI.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUp.h(8,18): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'LoginUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUp.h(8,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'LoginUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUp.h(8,36): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'LoginUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUp.h(11,9): error C2061: syntax error: identifier 'MemberCollection'
+  (compiling source file 'LoginUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(31,9): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'LoginUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(31,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'LoginUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(31,18): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'LoginUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(39,26): error C2061: syntax error: identifier 'LoginUI'
+  (compiling source file 'LoginUI.cpp')
+  
+  Logout.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,8): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,27): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(12,17): error C2061: syntax error: identifier 'string'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,42): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(13,8): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(13,7): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,25): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(10,13): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\LogoutUI.h(7,8): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\LogoutUI.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\LogoutUI.h(7,20): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Logout.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\LogoutUI.h(10,11): error C2061: syntax error: identifier 'Logout'
+  (compiling source file 'Logout.cpp')
+  
+  LogoutUI.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,8): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,27): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(12,17): error C2061: syntax error: identifier 'string'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,42): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(13,8): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(13,7): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,25): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(10,13): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(32,10): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(32,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(32,20): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'LogoutUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(39,39): error C2061: syntax error: identifier 'LogoutUI'
+  (compiling source file 'LogoutUI.cpp')
+  
+  Member.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SessionManager.h(7,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Member.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SessionManager.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Member.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SessionManager.h(7,29): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Member.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SessionManager.h(9,13): error C2061: syntax error: identifier 'Member'
+  (compiling source file 'Member.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,8): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Member.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Member.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,27): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Member.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(12,17): error C2061: syntax error: identifier 'string'
+  (compiling source file 'Member.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Member.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Member.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,42): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Member.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Member.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Member.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,24): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Member.cpp')
+  
+  MemberCollection.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUp.h(8,18): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'MemberCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUp.h(8,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MemberCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUp.h(8,36): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'MemberCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUp.h(11,9): error C2061: syntax error: identifier 'MemberCollection'
+  (compiling source file 'MemberCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(10,18): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'MemberCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(10,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MemberCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(10,27): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'MemberCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(13,27): error C2061: syntax error: identifier 'MemberCollection'
+  (compiling source file 'MemberCollection.cpp')
+  
+  RegisterBicycle.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(10,19): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'RegisterBicycle.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(10,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RegisterBicycle.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(10,26): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'RegisterBicycle.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(13,26): error C2061: syntax error: identifier 'BicycleCollection'
+  (compiling source file 'RegisterBicycle.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RegisterBicycleUI.h(7,17): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'RegisterBicycle.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RegisterBicycleUI.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RegisterBicycle.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RegisterBicycleUI.h(7,26): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'RegisterBicycle.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RegisterBicycleUI.h(10,20): error C2061: syntax error: identifier 'RegisterBicycle'
+  (compiling source file 'RegisterBicycle.cpp')
+  
+  RegisterBicycleUI.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(10,19): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'RegisterBicycleUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(10,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RegisterBicycleUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(10,26): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'RegisterBicycleUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(13,26): error C2061: syntax error: identifier 'BicycleCollection'
+  (compiling source file 'RegisterBicycleUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(33,19): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'RegisterBicycleUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(33,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RegisterBicycleUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(33,38): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'RegisterBicycleUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(40,3): error C2061: syntax error: identifier 'RegisterBicycleUI'
+  (compiling source file 'RegisterBicycleUI.cpp')
+  
+  Rent.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,8): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,27): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(12,17): error C2061: syntax error: identifier 'string'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,42): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(13,8): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,24): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(11,9): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,25): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(10,13): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RentUI.h(8,7): error C3646: 'rentCtrl': unknown override specifier
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RentUI.h(8,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Rent.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\RentUI.h(11,9): error C2061: syntax error: identifier 'Rent'
+  (compiling source file 'Rent.cpp')
+  
+  RentedBicycleCollection.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Member.h(15,26): error C3646: 'rentedBicycles': unknown override specifier
+  (compiling source file 'RentedBicycleCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Member.h(15,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RentedBicycleCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Member.h(23,25): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'RentedBicycleCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Member.h(23,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RentedBicycleCollection.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Member.h(23,48): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'RentedBicycleCollection.cpp')
+  
+  RentUI.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,8): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,27): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(12,17): error C2061: syntax error: identifier 'string'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,42): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(13,8): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,24): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(11,9): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,25): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(10,13): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(34,8): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(34,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(34,16): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'RentUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(40,26): error C2061: syntax error: identifier 'RentUI'
+  (compiling source file 'RentUI.cpp')
+  
+  SessionManager.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,8): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(9,27): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(12,17): error C2061: syntax error: identifier 'string'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\MemberCollection.h(13,42): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(9,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(13,8): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(7,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(8,24): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Logout.h(11,9): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(9,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Rent.h(13,7): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(7,25): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'SessionManager.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\ListRented.h(10,13): error C2061: syntax error: identifier 'SessionManager'
+  (compiling source file 'SessionManager.cpp')
+  
+  SignUp.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(10,18): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'SignUp.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(10,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SignUp.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(10,27): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'SignUp.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(13,27): error C2061: syntax error: identifier 'MemberCollection'
+  (compiling source file 'SignUp.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUpUI.h(8,9): error C3646: 'signUpCtrl': unknown override specifier
+  (compiling source file 'SignUp.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUpUI.h(8,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SignUp.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\SignUpUI.h(11,11): error C2061: syntax error: identifier 'SignUp'
+  (compiling source file 'SignUp.cpp')
+  
+  SignUpUI.cpp
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(10,18): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'SignUpUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(10,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SignUpUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(10,27): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'SignUpUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\Login.h(13,27): error C2061: syntax error: identifier 'MemberCollection'
+  (compiling source file 'SignUpUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(30,10): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'SignUpUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(30,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SignUpUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(30,20): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'SignUpUI.cpp')
+  
+C:\Users\ahnw0\Desktop\software-engineering2\BicycleApp\BicycleApp\BicycleApp.h(39,13): error C2061: syntax error: identifier 'SignUpUI'
+  (compiling source file 'SignUpUI.cpp')
+  
+  Generating Code...
