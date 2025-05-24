@@ -1,4 +1,5 @@
 #include "RegisterBicycle.h"
+#include "BicycleCollection.h"
 
 RegisterBicycle::RegisterBicycle(BicycleCollection& b) : bikes(b) {}
 

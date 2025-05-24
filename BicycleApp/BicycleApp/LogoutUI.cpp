@@ -1,11 +1,11 @@
 #include "LogoutUI.h"
+#include "Logout.h"
 
 LogoutUI::LogoutUI(Logout& l) : logoutCtrl(l) {}
 
 void LogoutUI::show()
 {
-	cout << "·Î±×¾Æ¿ô\n";
 	logoutCtrl.execute();
 
-	cout << "> " << logoutCtrl.getLogoutedID() << "\n";
+	out_fp << "> " << logoutCtrl.getLogoutedID() << "\n";
 }

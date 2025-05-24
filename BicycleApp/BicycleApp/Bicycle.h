@@ -15,4 +15,7 @@ public:
 	
 	string getID() const;
 	string getName() const;
+
+	//연산자 오버로딩
+	bool operator<(const Bicycle& other) const;
 };

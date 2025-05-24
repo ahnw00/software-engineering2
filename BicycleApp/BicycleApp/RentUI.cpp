@@ -6,5 +6,5 @@ void RentUI::show(string bikeID)
 {
 	string RentedBikeName = rentCtrl.rentBicycle(bikeID);
 
-	cout << "> " << bikeID << " " << RentedBikeName << "\n";
+	out_fp << "> " << bikeID << " " << RentedBikeName << "\n";
 }

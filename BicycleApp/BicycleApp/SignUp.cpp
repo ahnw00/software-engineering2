@@ -1,4 +1,5 @@
 #include "SignUp.h"
+#include "MemberCollection.h"
 
 SignUp::SignUp(MemberCollection& members) : memberCollection(members) {}
 

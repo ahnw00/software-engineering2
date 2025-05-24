@@ -1,4 +1,5 @@
 #include "RentedBicycleCollection.h"
+#include "Bicycle.h"
 
 void RentedBicycleCollection::add(Bicycle* bike)
 {
@@ -7,9 +8,11 @@ void RentedBicycleCollection::add(Bicycle* bike)
 
 void RentedBicycleCollection::listRented() const
 {
-	for (const auto& rentedBicycle : Rented)
+	vector<Bicycle*> sorted = Rented;
+	sort(sorted.begin(), sorted.end());
+	for (const auto& rentedBicycle : sorted)
 	{
-		cout << "> " << rentedBicycle->getID() << " " << rentedBicycle->getName();
-		cout << "\n";
+		out_fp << "> " << rentedBicycle->getID() << " " << rentedBicycle->getName();
+		out_fp << "\n";
 	}
 }

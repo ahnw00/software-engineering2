@@ -1,4 +1,5 @@
 #include "MemberCollection.h"
+#include "Member.h"
 
 void MemberCollection::addMember(string ID, string PW, string PhoneNumber)
 {

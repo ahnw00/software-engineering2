@@ -152,6 +152,7 @@
     <ClCompile Include="Bicycle.cpp" />
     <ClCompile Include="BicycleApp.cpp" />
     <ClCompile Include="BicycleCollection.cpp" />
+    <ClCompile Include="Common.cpp" />
     <ClCompile Include="ListRented.cpp" />
     <ClCompile Include="ListRentedUI.cpp" />
     <ClCompile Include="Login.cpp" />

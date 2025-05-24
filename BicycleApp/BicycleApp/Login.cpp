@@ -1,4 +1,6 @@
 #include "Login.h"
+#include "MemberCollection.h"
+#include "SessionManager.h"
 
 Login::Login(SessionManager& s, MemberCollection& m) : sessionManager(s), members(m) {}
 

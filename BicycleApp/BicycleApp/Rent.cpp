@@ -1,4 +1,5 @@
 #include "Rent.h"
+#include "SessionManager.h"
 
 Rent::Rent(SessionManager& s, BicycleCollection& b) : sessionManager(s), bikes(b) {}
 

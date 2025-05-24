@@ -6,5 +6,5 @@ void SignUpUI::Show(string ID, string PW, string PN)
 {
 	signUpCtrl.registerMember(ID, PW, PN);
 	
-	cout << "> " << ID << " " << PW << " " << PN << "\n";
+	out_fp << "> " << ID << " " << PW << " " << PN << "\n";
 }

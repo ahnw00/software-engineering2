@@ -24,9 +24,6 @@ class BicycleApp
 {
 private:
 	// 변수 선언
-	ifstream in_fp;
-	ofstream out_fp;
-
 	SignUpUI& signUpUI;
 	LoginUI& loginUI;
 	LogoutUI& logoutUI;
@@ -49,4 +46,6 @@ public:
 	void registerNewBicycle(string BikeID, string BikeName);
 	void rent(string BikeID);
 	void listRented();
+
+	void printOut(int menu1, int menu2);
 };

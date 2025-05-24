@@ -12,3 +12,10 @@ string Bicycle::getName() const
 {
 	return BicycleName;
 }
+
+bool Bicycle::operator<(const Bicycle& other) const 
+{
+	if (getID() < other.getID()) return true;
+	if (getID() == other.getID()) return getName() < other.getName();
+	return false;
+}

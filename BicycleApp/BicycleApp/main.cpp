@@ -1,8 +1,7 @@
-#include "Common.h"
-using namespace std;
+﻿#include "Common.h"
+#include "BicycleApp.h"
 
-ifstream in_fp;
-ofstream out_fp;
+using namespace std;
 
 int main()
 {
@@ -27,6 +26,8 @@ int main()
 
 	in_fp.open(INPUT_FILE_NAME);
 	out_fp.open(OUTPUT_FILE_NAME);
+
+	members.addMember("admin", "admin", "");
 
 	BicycleApp app(signUpUI, loginUI, logoutUI, registerBicycleUI, rentUI, listRentedUI);
 	app.doTask();
