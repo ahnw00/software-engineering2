@@ -2,10 +2,10 @@
 
 void SessionManager::login(Member* m)
 {
-	curMember = m;
+	CurMember = m;
 }
 
 void SessionManager::logout()
 {
-	curMember = nullptr;
+	CurMember = nullptr;
 }

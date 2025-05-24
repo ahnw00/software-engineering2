@@ -4,7 +4,7 @@
 class SessionManager
 {
 public:
-	Member* curMember = nullptr;
+	Member* CurMember = nullptr;
 
 	void login(Member* m);
 	void logout();

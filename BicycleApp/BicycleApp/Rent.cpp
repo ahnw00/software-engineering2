@@ -1,12 +1,12 @@
 #include "Rent.h"
 #include "SessionManager.h"
 
-Rent::Rent(SessionManager& s, BicycleCollection& b) : sessionManager(s), bikes(b) {}
+Rent::Rent(SessionManager& s, BicycleCollection& b) : Session(s), Bikes(b) {}
 
 string Rent::rentBicycle(string bikeID)
 {
-	Member* curMember = sessionManager.curMember;
-	Bicycle* rentedBike = bikes.findBike(bikeID);
+	Member* curMember = Session.CurMember;
+	Bicycle* rentedBike = Bikes.findBike(bikeID);
 
 	curMember->getRentedCollection().add(rentedBike);
 

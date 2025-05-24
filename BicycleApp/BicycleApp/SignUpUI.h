@@ -5,7 +5,7 @@
 class SignUpUI
 {
 private:
-	SignUp signUpCtrl;
+	SignUp SignUpCtrl;
 
 public:
 	SignUpUI(SignUp& s);

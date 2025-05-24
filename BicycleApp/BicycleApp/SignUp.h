@@ -8,7 +8,7 @@ class MemberCollection;
 class SignUp
 {
 private:
-	MemberCollection& memberCollection;
+	MemberCollection& Members;
 
 public:
 	SignUp(MemberCollection& members);

@@ -1,9 +1,9 @@
 #include "ListRentedUI.h"
 #include "ListRented.h"
 
-ListRentedUI::ListRentedUI(ListRented& l) : listRentedCtrl(l) {}
+ListRentedUI::ListRentedUI(ListRented& l) : ListRentedCtrl(l) {}
 
 void ListRentedUI::show()
 {
-	listRentedCtrl.execute();
+	ListRentedCtrl.execute();
 }

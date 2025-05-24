@@ -12,7 +12,7 @@ private:
 	string ID;
 	string PW;
 	string PhoneNumber;
-	RentedBicycleCollection rentedBicycles;
+	RentedBicycleCollection RentedBikes;
 
 public:
 	Member(string ID, string PW, string PhoneNumber);

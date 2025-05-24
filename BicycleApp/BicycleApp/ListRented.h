@@ -4,7 +4,7 @@
 class ListRented
 {
 private:
-	SessionManager& session;
+	SessionManager& Session;
 
 public:
 	ListRented(SessionManager& s);

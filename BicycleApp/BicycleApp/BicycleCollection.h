@@ -9,7 +9,7 @@ using namespace std;
 class BicycleCollection
 {
 private:
-	vector<Bicycle> bikes;
+	vector<Bicycle> Bikes;
 
 public:
 	void addBicycle(string ID, string Name);

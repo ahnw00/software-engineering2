@@ -7,9 +7,9 @@ class BicycleCollection;
 class RegisterBicycle
 {
 private:
-	BicycleCollection& bikes;
+	BicycleCollection& Bikes;
 
 public:
 	RegisterBicycle(BicycleCollection& b);
-	void execute(string bikeID, string bikeName);
+	void execute(string BikeID, string BikeName);
 };

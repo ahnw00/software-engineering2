@@ -4,7 +4,7 @@
 class LoginUI
 {
 private:
-	Login& loginCtrl;
+	Login& LoginCtrl;
 
 public:
 	LoginUI(Login& l);

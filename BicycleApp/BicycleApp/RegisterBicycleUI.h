@@ -4,9 +4,9 @@
 class RegisterBicycleUI
 {
 private:
-	RegisterBicycle& regCtrl;
+	RegisterBicycle& RegCtrl;
 
 public:
 	RegisterBicycleUI(RegisterBicycle& r);
-	void show(string bikeID, string bikeName);
+	void show(string BikeID, string BikeName);
 };

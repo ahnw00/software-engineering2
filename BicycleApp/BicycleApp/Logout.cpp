@@ -1,15 +1,15 @@
 #include "Logout.h"
 #include "SessionManager.h"
 
-Logout::Logout(SessionManager& s) : sessionManager(s), logoutedMember(nullptr) {}
+Logout::Logout(SessionManager& s) : Session(s), LogoutedMember(nullptr) {}
 
 void Logout::execute()
 {
-	logoutedMember = sessionManager.curMember;
-	sessionManager.logout();
+	LogoutedMember = Session.CurMember;
+	Session.logout();
 }
 
 string Logout::getLogoutedID()
 {
-	return logoutedMember->getID();
+	return LogoutedMember->getID();
 }

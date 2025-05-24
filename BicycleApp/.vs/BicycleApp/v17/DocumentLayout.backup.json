@@ -3,8 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SignUpUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\SignUpUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RegisterBicycleUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\RegisterBicycleUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SessionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\SessionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentedBicycleCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\RentedBicycleCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\MemberCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\MemberCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Rent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\Rent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\RentUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RegisterBicycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\RegisterBicycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Logout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\Logout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Bicycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\Bicycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\BicycleApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\BicycleApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\BicycleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\BicycleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\BicycleCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\BicycleCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\ListRented.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\ListRented.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\ListRentedUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\ListRentedUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Login.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\Login.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\LoginUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\LoginUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\LogoutUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\LogoutUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Rent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\Rent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SignUp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,16 +91,24 @@
       "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\SessionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SignUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\SignUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SignUpUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\SignUpUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SignUpUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\SignUpUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\RentUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentedBicycleCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\RentedBicycleCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Rent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\Rent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RegisterBicycleUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -79,44 +163,8 @@
       "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\BicycleCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\BicycleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\BicycleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Bicycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\Bicycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\BicycleApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\BicycleApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentedBicycleCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\RentedBicycleCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Bicycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\Bicycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\RentUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\ListRented.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\ListRented.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\ListRentedUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\ListRentedUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Rent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA9C582E-C855-4AFB-B500-8A718B04AE6E}|BicycleApp\\BicycleApp.vcxproj|solutionrelative:BicycleApp\\Rent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,11 +174,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BicycleCollection.h",
+              "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\BicycleCollection.h",
+              "RelativeDocumentMoniker": "BicycleApp\\BicycleCollection.h",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\BicycleCollection.h",
+              "RelativeToolTip": "BicycleApp\\BicycleCollection.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T17:18:18.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Common.h",
+              "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Common.h",
+              "RelativeDocumentMoniker": "BicycleApp\\Common.h",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Common.h",
+              "RelativeToolTip": "BicycleApp\\Common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T17:18:17.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.h",
+              "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Login.h",
+              "RelativeDocumentMoniker": "BicycleApp\\Login.h",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Login.h",
+              "RelativeToolTip": "BicycleApp\\Login.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T17:17:41.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginUI.h",
+              "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\LoginUI.h",
+              "RelativeDocumentMoniker": "BicycleApp\\LoginUI.h",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\LoginUI.h",
+              "RelativeToolTip": "BicycleApp\\LoginUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T17:17:32.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logout.h",
+              "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Logout.h",
+              "RelativeDocumentMoniker": "BicycleApp\\Logout.h",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Logout.h",
+              "RelativeToolTip": "BicycleApp\\Logout.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T17:17:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LogoutUI.h",
+              "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\LogoutUI.h",
+              "RelativeDocumentMoniker": "BicycleApp\\LogoutUI.h",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\LogoutUI.h",
+              "RelativeToolTip": "BicycleApp\\LogoutUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T17:17:05.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberCollection.h",
+              "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\MemberCollection.h",
+              "RelativeDocumentMoniker": "BicycleApp\\MemberCollection.h",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\MemberCollection.h",
+              "RelativeToolTip": "BicycleApp\\MemberCollection.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T17:16:22.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterBicycle.h",
+              "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RegisterBicycle.h",
+              "RelativeDocumentMoniker": "BicycleApp\\RegisterBicycle.h",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RegisterBicycle.h*",
+              "RelativeToolTip": "BicycleApp\\RegisterBicycle.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T17:16:11.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegisterBicycleUI.h",
+              "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RegisterBicycleUI.h",
+              "RelativeDocumentMoniker": "BicycleApp\\RegisterBicycleUI.h",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RegisterBicycleUI.h",
+              "RelativeToolTip": "BicycleApp\\RegisterBicycleUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T17:15:57.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionManager.h",
+              "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SessionManager.h",
+              "RelativeDocumentMoniker": "BicycleApp\\SessionManager.h",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SessionManager.h",
+              "RelativeToolTip": "BicycleApp\\SessionManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T17:13:55.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SignUp.h",
+              "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SignUp.h",
+              "RelativeDocumentMoniker": "BicycleApp\\SignUp.h",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SignUp.h",
+              "RelativeToolTip": "BicycleApp\\SignUp.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T17:13:37.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SignUpUI.h",
+              "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SignUpUI.h",
+              "RelativeDocumentMoniker": "BicycleApp\\SignUpUI.h",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SignUpUI.h",
+              "RelativeToolTip": "BicycleApp\\SignUpUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T17:12:56.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "SignUpUI.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SignUpUI.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\SignUpUI.cpp",
@@ -143,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 27,
               "Title": "RegisterBicycleUI.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RegisterBicycleUI.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\RegisterBicycleUI.cpp",
@@ -156,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 32,
               "Title": "LogoutUI.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\LogoutUI.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\LogoutUI.cpp",
@@ -169,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 34,
               "Title": "LoginUI.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\LoginUI.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\LoginUI.cpp",
@@ -182,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 39,
               "Title": "BicycleCollection.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\BicycleCollection.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\BicycleCollection.cpp",
@@ -195,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 40,
               "Title": "Bicycle.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Bicycle.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\Bicycle.cpp",
@@ -203,12 +407,11 @@
               "RelativeToolTip": "BicycleApp\\Bicycle.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-24T04:54:39.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T04:54:39.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 38,
               "Title": "Common.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Common.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\Common.cpp",
@@ -216,12 +419,11 @@
               "RelativeToolTip": "BicycleApp\\Common.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-23T19:16:30.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T19:16:30.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 36,
               "Title": "ListRentedUI.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\ListRentedUI.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\ListRentedUI.cpp",
@@ -234,20 +436,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 14,
               "Title": "ListRentedUI.h",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\ListRentedUI.h",
               "RelativeDocumentMoniker": "BicycleApp\\ListRentedUI.h",
               "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\ListRentedUI.h",
               "RelativeToolTip": "BicycleApp\\ListRentedUI.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-23T15:17:46.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 37,
               "Title": "ListRented.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\ListRented.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\ListRented.cpp",
@@ -260,20 +462,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 13,
               "Title": "ListRented.h",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\ListRented.h",
               "RelativeDocumentMoniker": "BicycleApp\\ListRented.h",
               "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\ListRented.h",
               "RelativeToolTip": "BicycleApp\\ListRented.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-23T15:14:01.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 28,
               "Title": "RegisterBicycle.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RegisterBicycle.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\RegisterBicycle.cpp",
@@ -286,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 33,
               "Title": "Logout.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Logout.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\Logout.cpp",
@@ -299,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 35,
               "Title": "Login.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Login.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\Login.cpp",
@@ -312,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "SessionManager.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SessionManager.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\SessionManager.cpp",
@@ -325,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 25,
               "Title": "RentUI.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentUI.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\RentUI.cpp",
@@ -338,12 +540,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 5,
               "Title": "RentUI.h",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentUI.h",
               "RelativeDocumentMoniker": "BicycleApp\\RentUI.h",
-              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentUI.h",
-              "RelativeToolTip": "BicycleApp\\RentUI.h",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentUI.h*",
+              "RelativeToolTip": "BicycleApp\\RentUI.h*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-23T12:37:33.231Z",
@@ -351,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "Rent.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Rent.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\Rent.cpp",
@@ -364,19 +566,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 4,
               "Title": "Rent.h",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Rent.h",
               "RelativeDocumentMoniker": "BicycleApp\\Rent.h",
-              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Rent.h",
-              "RelativeToolTip": "BicycleApp\\Rent.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Rent.h*",
+              "RelativeToolTip": "BicycleApp\\Rent.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-23T12:24:47.103Z"
+              "WhenOpened": "2025-05-23T12:24:47.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 20,
               "Title": "SignUp.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\SignUp.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\SignUp.cpp",
@@ -389,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 29,
               "Title": "MemberCollection.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\MemberCollection.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\MemberCollection.cpp",
@@ -402,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 26,
               "Title": "RentedBicycleCollection.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentedBicycleCollection.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\RentedBicycleCollection.cpp",
@@ -410,38 +613,37 @@
               "RelativeToolTip": "BicycleApp\\RentedBicycleCollection.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-23T08:42:36.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T08:42:36.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 2,
               "Title": "RentedBicycleCollection.h",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentedBicycleCollection.h",
               "RelativeDocumentMoniker": "BicycleApp\\RentedBicycleCollection.h",
-              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentedBicycleCollection.h",
-              "RelativeToolTip": "BicycleApp\\RentedBicycleCollection.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\RentedBicycleCollection.h*",
+              "RelativeToolTip": "BicycleApp\\RentedBicycleCollection.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-23T08:26:23.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 8,
               "Title": "Bicycle.h",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Bicycle.h",
               "RelativeDocumentMoniker": "BicycleApp\\Bicycle.h",
               "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Bicycle.h",
               "RelativeToolTip": "BicycleApp\\Bicycle.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-23T08:26:34.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 30,
               "Title": "Member.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Member.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\Member.cpp",
@@ -454,20 +656,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 18,
               "Title": "Member.h",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Member.h",
               "RelativeDocumentMoniker": "BicycleApp\\Member.h",
               "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\Member.h",
               "RelativeToolTip": "BicycleApp\\Member.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-23T08:16:27.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 10,
               "Title": "BicycleApp.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\BicycleApp.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\BicycleApp.cpp",
@@ -480,20 +682,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 9,
               "Title": "BicycleApp.h",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\BicycleApp.h",
               "RelativeDocumentMoniker": "BicycleApp\\BicycleApp.h",
               "ToolTip": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\BicycleApp.h",
               "RelativeToolTip": "BicycleApp\\BicycleApp.h",
-              "ViewState": "AgIAABIAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-22T03:40:08.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 31,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\ahnw0\\Desktop\\software-engineering2\\BicycleApp\\BicycleApp\\main.cpp",
               "RelativeDocumentMoniker": "BicycleApp\\main.cpp",
@@ -501,8 +703,7 @@
               "RelativeToolTip": "BicycleApp\\main.cpp",
               "ViewState": "AgIAAAsAAAAAAAAAAAAgwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-24T04:35:31.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T04:35:31.275Z"
             }
           ]
         }

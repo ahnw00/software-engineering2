@@ -7,7 +7,7 @@ class ListRented;
 class ListRentedUI
 {
 private:
-	ListRented& listRentedCtrl;
+	ListRented& ListRentedCtrl;
 
 public:
 	ListRentedUI(ListRented& l);

@@ -10,8 +10,8 @@ class SessionManager;
 class Login
 {
 private:
-	SessionManager& sessionManager;
-	MemberCollection& members;
+	SessionManager& Session;
+	MemberCollection& Members;
 
 public:
 	Login(SessionManager& s, MemberCollection& m);

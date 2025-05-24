@@ -15,5 +15,5 @@ string Member::getPW() const
 
 RentedBicycleCollection& Member::getRentedCollection()
 {
-	return rentedBicycles;
+	return RentedBikes;
 }

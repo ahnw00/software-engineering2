@@ -2,12 +2,12 @@
 
 void BicycleCollection::addBicycle(string ID, string Name)
 {
-	bikes.emplace_back(ID, Name);
+	Bikes.emplace_back(ID, Name);
 }
 
 Bicycle* BicycleCollection::findBike(string ID)
 {
-	for (auto& bike : bikes)
+	for (auto& bike : Bikes)
 	{
 		if (ID == bike.getID())
 		{

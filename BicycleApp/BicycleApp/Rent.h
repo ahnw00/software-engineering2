@@ -9,10 +9,10 @@ class SessionManager;
 class Rent
 {
 private:
-	SessionManager& sessionManager;
-	BicycleCollection& bikes;
+	SessionManager& Session;
+	BicycleCollection& Bikes;
 
 public:
 	Rent(SessionManager& s, BicycleCollection& b);
-	string rentBicycle(string bikeID);
+	string rentBicycle(string BikeID);
 };

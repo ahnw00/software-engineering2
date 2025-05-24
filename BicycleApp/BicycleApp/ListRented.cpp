@@ -1,10 +1,10 @@
 #include "ListRented.h"
 
-ListRented::ListRented(SessionManager& s) : session(s) {}
+ListRented::ListRented(SessionManager& s) : Session(s) {}
 
 void ListRented::execute()
 {
-	Member* curMember = session.curMember;
+	Member* curMember = Session.CurMember;
 	RentedBicycleCollection rentedList = curMember->getRentedCollection();
 	rentedList.listRented();
 }

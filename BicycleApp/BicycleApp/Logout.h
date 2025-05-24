@@ -7,8 +7,8 @@ class SessionManager;
 class Logout
 {
 private:
-	SessionManager& sessionManager;
-	Member* logoutedMember;
+	SessionManager& Session;
+	Member* LogoutedMember;
 
 public:
 	Logout(SessionManager& s);

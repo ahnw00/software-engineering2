@@ -1,10 +1,10 @@
 #include "SignUpUI.h"
 
-SignUpUI::SignUpUI(SignUp& s) : signUpCtrl(s) {}
+SignUpUI::SignUpUI(SignUp& s) : SignUpCtrl(s) {}
 
 void SignUpUI::Show(string ID, string PW, string PN)
 {
-	signUpCtrl.registerMember(ID, PW, PN);
+	SignUpCtrl.registerMember(ID, PW, PN);
 	
 	out_fp << "> " << ID << " " << PW << " " << PN << "\n";
 }

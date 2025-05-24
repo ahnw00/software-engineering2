@@ -5,9 +5,9 @@
 class RentUI
 {
 private:
-	Rent rentCtrl;
+	Rent RentCtrl;
 
 public:
 	RentUI(Rent& r);
-	void show(string bikeID);
+	void show(string BikeID);
 };

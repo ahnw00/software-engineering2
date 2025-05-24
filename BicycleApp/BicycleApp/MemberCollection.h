@@ -9,9 +9,9 @@ class Member;
 class MemberCollection
 {
 private:
-	vector<Member> members;
+	vector<Member> Members;
 
 public:
-	void addMember(string ID, string PW, string PhoneNumber);
+	void addMember(string ID, string PW, string PN);
 	Member* findMember(string ID, string PW);
 };

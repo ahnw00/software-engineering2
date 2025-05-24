@@ -7,7 +7,7 @@ class Logout;
 class LogoutUI
 {
 private:
-	Logout& logoutCtrl;
+	Logout& LogoutCtrl;
 
 public:
 	LogoutUI(Logout& l);

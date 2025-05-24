@@ -1,11 +1,11 @@
 #include "LogoutUI.h"
 #include "Logout.h"
 
-LogoutUI::LogoutUI(Logout& l) : logoutCtrl(l) {}
+LogoutUI::LogoutUI(Logout& l) : LogoutCtrl(l) {}
 
 void LogoutUI::show()
 {
-	logoutCtrl.execute();
+	LogoutCtrl.execute();
 
-	out_fp << "> " << logoutCtrl.getLogoutedID() << "\n";
+	out_fp << "> " << LogoutCtrl.getLogoutedID() << "\n";
 }
