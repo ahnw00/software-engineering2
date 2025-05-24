@@ -17,6 +17,6 @@ private:
 	vector<Bicycle*> Rented;
 
 public:
-	void add(Bicycle* bike);
+	void add(Bicycle* Bike);
 	void listRented() const;
 };
